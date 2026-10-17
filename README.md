@@ -67,7 +67,7 @@
 
 학습 로그: [`docs/gru_training_log.pdf`](docs/gru_training_log.pdf)
 
-## 5. 회고: 지금 다시 본다면
+## 5. 회고: 지금 다시 본다면(2026.10 작성)
 
 **계획과 실제의 차이**
 
