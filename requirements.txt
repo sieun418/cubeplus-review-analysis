@@ -1,0 +1,14 @@
+# 2024년 당시 사용 라이브러리 (버전 미고정, 보관용)
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+konlpy
+mecab-python
+tensorflow
+selenium
+slack_bolt
+slack_sdk
+python-dotenv
+openai==0.28  # 레거시 Completion API 사용

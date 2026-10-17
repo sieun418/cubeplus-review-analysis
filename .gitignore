@@ -1,0 +1,21 @@
+# secrets
+.env
+
+# data / model artifacts
+data/
+*.csv
+*.h5
+*.keras
+cube.db
+ratings_total.txt
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os
+.DS_Store
+__MACOSX/
+Thumbs.db
